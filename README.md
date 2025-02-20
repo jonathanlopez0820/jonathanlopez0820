@@ -1,9 +1,8 @@
 # Hi there, I'm Jonathan Lopez 👋
-- 🚀 I'm currently studying an MSc in Computer Science at the University of Tartu
 - 📊 Experienced in Data Analyst and Data Engineering
 - 🎯 Certified PMP & Power BI Data Analyst
 - 🌱 I'm currently learning ML and AI models
-- 🌎 Based in Estonia 🇪🇪 (Originally from El Salvador 🇸🇻)
+- 🌎 Based in El Salvador 🇸🇻
 
 ---
 
